@@ -1,6 +1,6 @@
 ## Hi, I'm Samuel 👋
 
-## <img src="https://media.giphy.com/media/AZ9E5rrNWsacg/giphy.gif" width="50"> A little more about me...  
+## <img src="https://media.giphy.com/media/AZ9E5rrNWsacg/giphy.gif" width="50"> About me in Code  
 
 ```javascript
 const samuelCuevas = {
