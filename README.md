@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Samuel 👋
+
+### <img src="https://media.giphy.com/media/AZ9E5rrNWsacg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const SamuelCuevas = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [Angular, Node],
+}
+```
 
 <!--
 **SamuelCuevas/samuelcuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
