@@ -1,7 +1,7 @@
 ## <h1 align="center">Hi 👋, I'm Samuel Cuevas</h1>
    <h3 align="center">A passionate web developer from Chile</h3>
 
-## <img src="https://media.giphy.com/media/AZ9E5rrNWsacg/giphy.gif" width="50"> About me in Code  
+## <img src="https://media.giphy.com/media/AZ9E5rrNWsacg/giphy.gif" width="50"> About me
 
 
 - 🌱 I’m currently learning **React**
