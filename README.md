@@ -15,10 +15,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelcuevas&show_icons=true" alt="samuelcuevas" />
 
-<p align="center">
-<a href="https://twitter.com/yukihirashirou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yukihirashirou" height="30" width="30" /></a>
-<a href="https://instagram.com/yukihirashirou" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yukihirashirou" height="30" width="30" /></a>
-</p>
 <!--
 **SamuelCuevas/samuelcuevas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
